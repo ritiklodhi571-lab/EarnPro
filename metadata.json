@@ -1,0 +1,7 @@
+{
+  "name": "EarnPro - Smart Task & Wallet",
+  "description": "A professional task-based earning platform with AI-powered earning strategies and real-time wallet tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
